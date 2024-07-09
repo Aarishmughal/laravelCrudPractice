@@ -1,0 +1,10 @@
+th{
+    font-weight: 300;
+}
+.alert{
+    font-size: 12px;
+}
+.rounded-table{
+    border-radius: 15px;
+    overflow: hidden;
+}
